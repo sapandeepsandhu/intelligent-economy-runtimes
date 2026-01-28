@@ -10,8 +10,8 @@ Execute an end-to-end, fully reproducible research pipeline evaluating Node.js, 
 - k6 (for load testing)
 
 ## Quick Start
-1. Setup environment: `./setup.sh` (TODO)
-2. Run experiments: `./experiments/run.sh` (TODO)
+1. Setup environment: `./setup.sh` 
+2. Run experiments: `./experiments/run.sh` 
 
 
 ## Structure
