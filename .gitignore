@@ -17,17 +17,7 @@ india.webp
 node.png
 .~lock.*
 
-# LaTeX artifacts
-*.aux
-*.log
-*.out
-*.pdf
-*.bbl
-*.blg
-*.synctex.gz
-*.toc
-*.lof
-*.lot
+
 
 # System files
 .DS_Store
