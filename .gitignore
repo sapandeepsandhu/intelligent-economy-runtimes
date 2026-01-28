@@ -1,8 +1,6 @@
 # Python virtual environment
 venv/
 
-# Paper directory (separate repo or private)
-benchmark_project/paper/
 
 # Large result files - keep only summaries
 benchmark_project/results/frontier/*.json
