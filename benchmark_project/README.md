@@ -1,8 +1,5 @@
 # Architectural Substrates for the Intelligent Economy: Evaluating Node.js 25+, Bun, and Deno
 
-## Mission
-Execute an end-to-end, fully reproducible research pipeline evaluating Node.js, Bun, and Deno for "Intelligent Economy" workloads.
-
 ## Prerequisites
 - Node.js 25+
 - Bun
