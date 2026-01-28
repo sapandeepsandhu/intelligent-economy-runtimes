@@ -1,0 +1,49 @@
+# Python virtual environment
+venv/
+
+# Paper directory (separate repo or private)
+benchmark_project/paper/
+
+# Large result files - keep only summaries
+benchmark_project/results/frontier/*.json
+benchmark_project/results/raw/*/k6_metrics.json
+benchmark_project/results/raw/*/k6_summary.json
+
+# Miscellaneous files
+bun.svg
+copy.txt
+FacultyTT.xlsx
+india.webp
+node.png
+.~lock.*
+
+# LaTeX artifacts
+*.aux
+*.log
+*.out
+*.pdf
+*.bbl
+*.blg
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+
+# System files
+.DS_Store
+*.swp
+*~
+.idea/
+.vscode/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+*.tmp
+*.temp

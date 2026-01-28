@@ -1,0 +1,2 @@
+,runtime,workload,otel,N,throughput_mean,throughput_std,p99_mean,p99_std,cost_per_success
+0,test,w1_rest,False,1,100.5,0.0,20.1,0.0,0.009950248756218905
